@@ -20,25 +20,8 @@ namespace ProductManagementAPI.Controllers
 		[HttpGet]
 		public async Task<ActionResult<IEnumerable<Supplier>>> GetSuppliers()
 		{
-			var suppliers = await _dbContext.Suppliers
-				.Include(s => s.Products)
-				.ToListAsync();
+			var suppliers = await _dbContext.Suppliers.ToListAsync();
 			return Ok(suppliers);
-		}
-
-		[HttpGet("{id}")]
-		public async Task<ActionResult<Supplier>> GetSupplier(int id)
-		{
-			var supplier = await _dbContext.Suppliers
-				.Include(s => s.Products)
-				.FirstOrDefaultAsync(s => s.SupplierId == id);
-
-			if (supplier == null)
-			{
-				return NotFound(new { message = "Supplier Not Found" });
-			}
-
-			return Ok(supplier);
 		}
 
 		[HttpPost]
