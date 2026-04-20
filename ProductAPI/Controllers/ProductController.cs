@@ -21,10 +21,7 @@ namespace ProductManagementAPI.Controllers
 		[HttpGet]
 		public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
 		{
-			var products = await _dbContext.Products
-				.Include(p => p.Category)
-				.Include(p => p.Supplier)
-				.ToListAsync();
+			var products = await _dbContext.Products.ToListAsync();
 			return Ok(products);
 		}
 		
