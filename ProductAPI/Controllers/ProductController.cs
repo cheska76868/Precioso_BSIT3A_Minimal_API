@@ -27,23 +27,7 @@ namespace ProductManagementAPI.Controllers
 				.ToListAsync();
 			return Ok(products);
 		}
-
-		[HttpGet("{id}")]
-		public async Task<ActionResult<Product>> GetProduct(int id)
-		{
-			var product = await _dbContext.Products
-				.Include(p => p.Category)
-				.Include(p => p.Supplier)
-				.FirstOrDefaultAsync(p => p.ProductId == id);
-
-			if (product == null)
-			{
-				return NotFound(new { message = "Product Not Found" });
-			}
-
-			return Ok(product);
-		}
-
+		
 		[HttpPost]
 		public async Task<ActionResult<Product>> CreateProduct(Product product)
 		{
