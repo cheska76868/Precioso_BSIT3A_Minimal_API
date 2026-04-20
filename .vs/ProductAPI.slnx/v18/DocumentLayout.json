@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\migrations\\20260418082736_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\migrations\\20260418082736_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\users\\francheska precioso\\source\\repos\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260418082736_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Migrations\\20260418082736_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Migrations\\20260418082736_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Migrations\\20260418082736_InitialCreate.cs",
+              "RelativeToolTip": "ProductAPI\\Migrations\\20260418082736_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:27:37.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:23:04.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:33:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:30:05.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAQKnEd4+IwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T04:17:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:33:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ProductAPI\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T04:21:05.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:29:27.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T04:34:25.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:23:24.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Category.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:33:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Francheska Precioso\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T04:24:20.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
