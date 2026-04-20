@@ -20,25 +20,8 @@ namespace ProductManagementAPI.Controllers
 		[HttpGet]
 		public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
 		{
-			var categories = await _dbContext.Categories
-				.Include(c => c.Products)
-				.ToListAsync();
+			var categories = await _dbContext.Categories.ToListAsync();
 			return Ok(categories);
-		}
-
-		[HttpGet("{id}")]
-		public async Task<ActionResult<Category>> GetCategory(int id)
-		{
-			var category = await _dbContext.Categories
-				.Include(c => c.Products)
-				.FirstOrDefaultAsync(c => c.CategoryId == id);
-
-			if (category == null)
-			{
-				return NotFound(new { message = "Category Not Found" });
-			}
-
-			return Ok(category);
 		}
 
 		[HttpPost]
