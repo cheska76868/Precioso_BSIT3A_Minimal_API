@@ -1,4 +1,4 @@
-# ProductAPI
+# Minimal API
 
 A **Product Management System** REST API built with ASP.NET Core 8, Entity Framework Core, and SQL Server. Provides full CRUD operations for Products, Categories, Suppliers, and Customers with Swagger UI for testing.
 
@@ -102,13 +102,7 @@ dotnet tool install --global dotnet-ef
 
 ---
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-```
-
-### 2. Configure the Database Connection
+### 1. Configure the Database Connection
 
 Edit `appsettings.json` and set your SQL Server instance:
 
@@ -124,7 +118,7 @@ Edit `appsettings.json` and set your SQL Server instance:
 | SQL Server Express | `.\\SQLEXPRESS` |
 | Full SQL Server | `localhost` |
 
-### 3. Apply Migrations & Create the Database
+### 2. Apply Migrations & Create the Database
 
 ```bash
 dotnet ef migrations add InitialCreate
@@ -133,7 +127,7 @@ dotnet ef database update
 
 > ⚠️ **If you get a foreign key conflict error** on first run, delete the `Migrations` folder, drop the database in SQL Server Management Studio, then re-run the two commands above.
 
-### 4. Run the Project
+### 3. Run the Project
 
 ```bash
 dotnet run
