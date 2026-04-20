@@ -16,12 +16,12 @@ namespace ProductManagementAPI.Controllers
 			_context = context;
 		}
 
-	[HttpGet]
-	public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
-	{
-		var customers = await _context.Customers.ToListAsync();
-		return Ok(customers);
-	}
+	    [HttpGet]
+	    public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
+	    {
+		     var customers = await _context.Customers.ToListAsync();
+		     return Ok(customers);
+	   }
 
 		// POST: api/Customers
 		[HttpPost]
